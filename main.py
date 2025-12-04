@@ -4,9 +4,6 @@ ASR Example using common libraries.
 
 This example demonstrates how to use FunASR's SenseVoice model.
 
-Dependencies:
-- brew install portaudio
-
 Usage:
     uv run python main.py
 
